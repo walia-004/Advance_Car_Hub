@@ -26,3 +26,4 @@ VALUES ('Sam', 'admin@gmail.com', '$2b$12$examplehashedpassword', 'admin');
 INSERT INTO mechanics (name, specialization, rating, experience, description, phone, email) VALUES
 ('Akshat', 'Engine Specialist', 4.8, 15, 'Engine expert', '+91 1234567890', 'akshat@mail.com'),
 ('Naishy', 'Electrical Systems', 4.7, 10, 'Electrical expert', '+91 9876543210', 'naishy@mail.com');
+

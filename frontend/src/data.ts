@@ -1,4 +1,4 @@
-import { Car, Mechanic, ModificationService, } from './types';
+import { Car, Mechanic, ModificationService,User } from './types';
 
 export const users: User[] = [
   {
