@@ -126,10 +126,3 @@ This capstone project reflects strong understanding of:
 * Database-driven system design
 * Admin-level control implementation
 
----
-
-<<<<<<< HEAD
-> ⭐ If you found this project useful, consider giving it a star!
-=======
-> ⭐ If you found this project useful, consider giving it a star!
->>>>>>> 9f5ed4e5828e14233a405762f090d80c3c186830
