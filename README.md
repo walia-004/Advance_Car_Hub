@@ -4,15 +4,16 @@
 
 ### A Modern Full-Stack Automobile Management Platform
 
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/Frontend-React%20+%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0EA5E9)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/Frontend-React%20+%20TypeScript-A855F7?style=for-the-badge&logo=react&logoColor=white&labelColor=A855F7)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-22C55E?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=22C55E)](https://tailwindcss.com/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-F59E0B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F59E0B)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Language-Python-E11D48?style=for-the-badge&logo=python&logoColor=white&labelColor=E11D48)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/Markup-HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white&labelColor=F97316)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/Styles-CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white&labelColor=2563EB)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![License](https://img.shields.io/badge/License-MIT-14B8A6?style=for-the-badge&labelColor=14B8A6)](LICENSE)
 
-> **UG Capstone Project** · B.Sc. Information Technology  
-> A production-style full-stack application for streamlined car exploration, service booking, and administrative management.
+**UG Capstone Project** · B.Sc. Information Technology
 
 [Features](#-core-functionalities) · [Architecture](#️-system-architecture) · [API Reference](#-api-reference) · [Setup](#-getting-started) · [Roadmap](#-roadmap)
 
